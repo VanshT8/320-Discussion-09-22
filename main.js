@@ -1,1 +1,1 @@
-console.log("Whatsup");
+console.log("Hello, Parter 2 was here");
